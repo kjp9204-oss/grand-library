@@ -2,6 +2,10 @@
 
 논문과 독립적으로 작성한 한국어 해설, 임상 질문을 함께 읽는 공개 지식 자료실입니다.
 
+## 연도별 임상근거
+
+물리치료·재활·운동·통증·움직임의 신규 연구와 진료지침을 출판 연도별로 정리합니다. [연도별 목록 보기](https://kjp9204-oss.github.io/grand-library/imports/clinical-research/) · [2026년 서지 JSON](imports/clinical-research/2026/references.json)
+
 ## 첫 공개판 범위
 
 - AON 공개 색인 293건과 임상 자료 목록 78건을 연결하고 서지가 일치한 7건을 병합한 **364개 서지 항목**.
