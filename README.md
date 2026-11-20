@@ -6,6 +6,10 @@
 
 물리치료·재활·운동·통증·움직임의 신규 연구와 진료지침을 출판 연도별로 정리합니다. [연도별 목록 보기](https://kjp9204-oss.github.io/grand-library/imports/clinical-research/) · [2026년 서지 JSON](imports/clinical-research/2026/references.json)
 
+## 평가도구 안내
+
+통증·기능 변화를 살피는 설문·평가도구 14개의 목적, 공식 출처, 사용 조건을 안내합니다. 설문 파일과 개인 평가는 제공하지 않습니다. [평가도구 안내 보기](https://kjp9204-oss.github.io/grand-library/imports/outcome-measures/) (2026-11-20 에이온 평가도구 페이지에서 이관)
+
 ## 첫 공개판 범위
 
 - AON 공개 색인 293건과 임상 자료 목록 78건을 연결하고 서지가 일치한 7건을 병합한 **364개 서지 항목**.
