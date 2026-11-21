@@ -10,6 +10,10 @@
 
 통증·기능 변화를 살피는 설문·평가도구 14개의 목적, 공식 출처, 사용 조건을 안내합니다. 설문 파일과 개인 평가는 제공하지 않습니다. [평가도구 안내 보기](https://kjp9204-oss.github.io/grand-library/imports/outcome-measures/) (2026-11-20 에이온 평가도구 페이지에서 이관)
 
+## 임상추론 강의 정리 노트
+
+환자 문진과 임상추론(Tim Mitchell), 임상추론 입문(Harry Truong), 절차적 추론(Mark Jones) 세 강의를 한국어로 요약한 학습 노트와 새로 그린 도식 5개입니다. 강의 슬라이드의 번역본이나 사본이 아니며, 강의 내용의 권리는 각 강사와 기관에 있습니다. [노트 보기](https://kjp9204-oss.github.io/grand-library/imports/clinical-reasoning/) · [PDF](imports/clinical-reasoning/clinical-reasoning-notes.pdf) (2026-11-22 추가)
+
 ## 첫 공개판 범위
 
 - AON 공개 색인 293건과 임상 자료 목록 78건을 연결하고 서지가 일치한 7건을 병합한 **364개 서지 항목**.
