@@ -1,0 +1,9 @@
+.catalog-active{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:14px 0 20px}
+.catalog-active-label{font-size:13px;color:#596579}
+.catalog-filter-chip,.catalog-reset,.catalog-share{font:inherit;font-size:13px;line-height:1.4;border:1px solid #d8e2f4;background:#f4f7ff;color:#24416f;border-radius:999px;padding:7px 11px;cursor:pointer;max-width:100%;overflow-wrap:anywhere;text-align:left}
+.catalog-filter-chip span{font-weight:700;margin-left:3px}
+.catalog-reset,.catalog-share{background:#fff}
+.catalog-filter-chip:focus-visible,.catalog-reset:focus-visible,.catalog-share:focus-visible{outline:2px solid #0751f9;outline-offset:3px}
+.catalog-share-status{font-size:13px;color:#334e71;flex-basis:100%}
+@media(max-width:600px){.catalog-active{gap:7px}.catalog-filter-chip,.catalog-reset,.catalog-share{font-size:12px;padding:7px 9px}}
+
