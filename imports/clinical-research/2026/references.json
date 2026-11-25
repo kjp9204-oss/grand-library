@@ -1,6 +1,6 @@
 {
   "publicationYear": 2026,
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-25",
   "search": {
     "date": "2026-11-16",
     "scope": "2026년 1월 1일~11월 16일 공개 자료 중 선별",
@@ -227,6 +227,159 @@
       "pdfVerified": false,
       "accessLabel": "출판사·PubMed 서지 및 초록",
       "license": ""
+    },
+    {
+      "year": "2026",
+      "design": "체계적 문헌고찰·메타분석",
+      "domain": "medicine",
+      "summary": "",
+      "limitation": "원논문 전문의 방법·표·수치를 대조하고 비판적으로 평가하기 전이므로 효과와 임상 적용을 해석하지 않습니다.",
+      "question": "",
+      "review": "원논문 공식 서지·초록 및 공식 원문 접근 경로를 확인했습니다. 전문 전체의 비판적 평가와 표·수치 대조는 아직 하지 않았습니다.",
+      "sources": [
+        "clinical"
+      ],
+      "sourceType": "원출처",
+      "chapterIds": [],
+      "related": [],
+      "verifiedAt": "2026-11-25",
+      "pdfVerified": false,
+      "license": "",
+      "id": "CL2026-006",
+      "aliases": [],
+      "title": "Effectiveness of Hand Rehabilitation Programs for Non-Thumb Metacarpal Fractures: A Systematic Review and Meta-Analysis",
+      "koreanTitle": "엄지를 제외한 중수골 골절 후 손 재활 프로그램의 효과: 체계적 문헌고찰·메타분석",
+      "author": "Hakami AH, et al.",
+      "journal": "Clin Ter. 2026;177(1):174–181.",
+      "doi": "10.7417/CT.2026.1991",
+      "pmid": "41525130",
+      "topic": "손·손목",
+      "topics": [
+        "손·손목",
+        "중수골 골절",
+        "손 재활"
+      ],
+      "sourceURL": "https://www.clinicaterapeutica.it/ojs/index.php/1/article/view/1442",
+      "fullTextURL": "https://www.clinicaterapeutica.it/ojs/index.php/1/article/view/1442",
+      "pdfURL": "https://www.clinicaterapeutica.it/ojs/index.php/1/article/download/1442/983/7469",
+      "accessLabel": "공식 저널의 원문 페이지와 PDF 경로입니다. 서지·초록 확인 단계이며 전문 전체의 비판적 평가는 아직 하지 않았습니다.",
+      "verificationURL": "https://pubmed.ncbi.nlm.nih.gov/41525130/",
+      "supplementalLinks": [
+        {
+          "label": "Physio Network 리뷰 · 별도 2차 자료",
+          "url": "https://www.physio-network.com/research-reviews/wrist-hand/effectiveness-of-hand-rehabilitation-programs-for-non-thumb-metacarpal-fractures-a-systematic-review-and-meta-analysis/"
+        }
+      ],
+      "notes": "Physio Network의 2026년 6월 리뷰에서 찾은 원논문입니다. PN 리뷰와 원논문은 별도 자료입니다. 자체 한국어 해설은 아직 작성하지 않았습니다.",
+      "bibliographyNote": "원논문 인쇄 첫 저자 Alaa Hamed Hakami의 약식은 Hakami AH입니다. 저널 웹페이지의 Alaa Hakami 표기와 구분했습니다. 전체 저자 목록은 재현하지 않았습니다. 원문 비판적 평가 전 포함 연구·효과 크기·단위·임상 결론을 추가하지 않습니다."
+    },
+    {
+      "year": "2026",
+      "design": "체계적 문헌고찰·메타분석",
+      "domain": "medicine",
+      "summary": "",
+      "limitation": "원논문 전문의 방법·표·수치를 대조하고 비판적으로 평가하기 전이므로 효과와 임상 적용을 해석하지 않습니다.",
+      "question": "",
+      "review": "원논문 공식 서지·초록 및 공식 원문 접근 경로를 확인했습니다. 전문 전체의 비판적 평가와 표·수치 대조는 아직 하지 않았습니다.",
+      "sources": [
+        "clinical"
+      ],
+      "sourceType": "원출처",
+      "chapterIds": [],
+      "related": [],
+      "verifiedAt": "2026-11-25",
+      "pdfVerified": false,
+      "license": "",
+      "id": "CL2026-007",
+      "aliases": [],
+      "title": "Cross-education of upper-limb strength and muscle thickness following unilateral resistance training: a systematic review and meta-analysis",
+      "koreanTitle": "편측 저항운동 후 반대쪽 상지 근력·근두께 변화: 체계적 문헌고찰·메타분석",
+      "author": "Hernando-Garijo I, et al.",
+      "journal": "Physiotherapy Theory and Practice. 2026. 온라인 선게재.",
+      "doi": "10.1080/09593985.2026.2689440",
+      "pmid": "42323824",
+      "topic": "팔꿈치 · 전완",
+      "topics": [
+        "팔꿈치 · 전완",
+        "상지",
+        "교차 교육",
+        "저항운동"
+      ],
+      "sourceURL": "https://www.tandfonline.com/doi/full/10.1080/09593985.2026.2689440",
+      "fullTextURL": "https://www.tandfonline.com/doi/full/10.1080/09593985.2026.2689440",
+      "pdfURL": "",
+      "accessLabel": "공식 출판사 원문 경로이며 제공자의 이용 조건을 따릅니다. 전문 무료 열람 여부는 확인하지 못했습니다.",
+      "verificationURL": "https://pubmed.ncbi.nlm.nih.gov/42323824/",
+      "supplementalLinks": [
+        {
+          "label": "Physio Network 리뷰 · 별도 2차 자료",
+          "url": "https://www.physio-network.com/research-reviews/elbow/cross-education-of-upper-limb-strength-and-muscle-thickness-following-unilateral-resistance-training-a-systematic-review-and-meta-analysis/"
+        }
+      ],
+      "notes": "Physio Network의 2026년 10월 리뷰에서 찾은 원논문입니다. PN 리뷰와 원논문은 별도 자료입니다. 자체 한국어 해설은 아직 작성하지 않았습니다.",
+      "bibliographyNote": "공식 서지·초록 확인 범위의 등록 후보입니다. 전문의 대상·중재·결과·한계를 대조하기 전이므로 환자에게 적용할 결론을 쓰지 않습니다."
+    },
+    {
+      "year": "2026",
+      "design": "체계적 문헌고찰·메타분석",
+      "domain": "medicine",
+      "summary": "",
+      "limitation": "원논문 전문의 방법·표·수치를 대조하고 비판적으로 평가하기 전이므로 효과와 임상 적용을 해석하지 않습니다.",
+      "question": "",
+      "review": "원논문 공식 서지·초록 및 공식 원문 접근 경로를 확인했습니다. 전문 전체의 비판적 평가와 표·수치 대조는 아직 하지 않았습니다.",
+      "sources": [
+        "clinical"
+      ],
+      "sourceType": "원출처",
+      "chapterIds": [],
+      "related": [],
+      "verifiedAt": "2026-11-25",
+      "pdfVerified": false,
+      "license": "",
+      "id": "CL2026-008",
+      "aliases": [],
+      "title": "Epidemiology and Risk Factors of Wrist Pain and Injury in Adolescent Artistic Gymnasts: A Systematic Review and Meta-analysis",
+      "koreanTitle": "청소년 기계체조 선수의 손목 통증·부상과 위험요인: 체계적 문헌고찰·메타분석",
+      "author": "DiLeo SDF, et al.",
+      "journal": "Orthopaedic Journal of Sports Medicine. 2026;14(1):23259671251395329.",
+      "doi": "10.1177/23259671251395329",
+      "pmid": "41552624",
+      "topic": "손·손목",
+      "topics": [
+        "손·손목",
+        "청소년",
+        "기계체조"
+      ],
+      "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12804664/",
+      "fullTextURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12804664/",
+      "pdfURL": "",
+      "accessLabel": "PMC의 공식 공개 전문 페이지입니다. 전문 전체의 표·수치를 검토한 상태는 아니며, 재사용 조건은 해당 원문에서 확인합니다.",
+      "verificationURL": "https://pubmed.ncbi.nlm.nih.gov/41552624/",
+      "supplementalLinks": [
+        {
+          "label": "Physio Network 리뷰 · 별도 2차 자료",
+          "url": "https://www.physio-network.com/research-reviews/wrist-hand/epidemiology-and-risk-factors-of-wrist-pain-and-injury-in-adolescent-artistic-gymnasts-a-systematic-review-and-meta-analysis/"
+        }
+      ],
+      "notes": "Physio Network의 2026년 9월 리뷰에서 찾은 원논문입니다. PN 리뷰와 원논문은 별도 자료입니다. 자체 한국어 해설은 아직 작성하지 않았습니다.",
+      "bibliographyNote": "PMCID: PMC12804664. 공식 서지·초록과 공개 전문 경로만 확인한 등록 후보입니다. 유병률·위험요인 수치와 임상 적용 해설은 아직 추가하지 않습니다."
+    }
+  ],
+  "additions": [
+    {
+      "date": "2026-11-25",
+      "scope": "Physio Network 리뷰에서 추적한 원논문 서지 3건. 기존 초기 탐색 검색의 범위와 구분.",
+      "verificationSources": [
+        "PubMed",
+        "공식 저널·출판사",
+        "PMC"
+      ],
+      "reviewStatus": "공식 서지·초록 및 원문 접근 경로 확인. 전문 전체 비판적 평가·임상 수치 대조·자체 한국어 해설 미작성.",
+      "recordIds": [
+        "CL2026-006",
+        "CL2026-007",
+        "CL2026-008"
+      ]
     }
   ]
 }
